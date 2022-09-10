@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RathoreAbhiii aka Abhishek!
 - 👀 I’m interested in getting started to contribute to Open Source communities.
 - 🌱 I’m well versed in HTML, CSS, JavaScript & C++. Along with this, I am also getting into Solidity & Hardhat for blockchain devlopment (Ethereum based).
-- 📫 How to reach me...
+- 📫 How to reach me... <br>
   Email @abhishek.rathore.21cse@bmu.edu.in <br>
   [LinkedIn](https://www.linkedin.com/in/abhishek-rathore-1227a61b5/)
   
