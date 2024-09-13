@@ -8,9 +8,10 @@
 
 
 ## I'm a Student, Developer!!
-- Sophomore, in computer science and engineering.
-- 👯 I’m looking to collaborate with the open-source community and developers.
-- 🥅 2022 Goals: Start contributing to Open Source projects and explore new stuff!
+- 👨‍💻 Final-year Computer Science & Engineering student with a passion for building and learning.
+- 🚀 With hands-on experience developing real-world applications using Flutter, I’ve expanded my skillset to cybersecurity, full stack development, blockchain, and machine learning.
+- 🌱 Now, I'm excited to dive into full-time software development roles, eager to contribute to impactful, real-time projects and grow within the tech industry.
+- 💡 Always on the lookout for open-source collaboration opportunities and meaningful connections within the developer community.
 
 ### Languages and Tools:
 
